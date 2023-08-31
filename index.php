@@ -14,6 +14,7 @@
         <h3>Daftar Siswa</h3>
     </header>
     <nav><a href="v_form.php"><button>Tambah baru</button></a></nav>
+    <br>
     <table border="1" cellpadding="9">
         <thead>
             <tr>
