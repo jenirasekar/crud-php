@@ -40,7 +40,7 @@
                 echo "<td>" . $siswa['no_telp'] . "</td>";
                 echo "<td>" . $siswa['kelas'] . "</td>";
                 echo "<td>";
-                echo "<a href='v_form.php?nis=" . $siswa['nis'] . "'>Edit</a> | ";
+                echo "<a href='w_form.php?nis=" . $siswa['nis'] . "'>Edit</a> | ";
                 echo "<a href='hapus.php?nis=" . $siswa['nis'] . "'>Hapus</a>";
                 echo "</td>";
                 echo "</tr>";
